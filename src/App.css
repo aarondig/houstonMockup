@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.image {
+  max-height: 100%;
+  object-fit: contain;
+}
+.vertContainer {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
